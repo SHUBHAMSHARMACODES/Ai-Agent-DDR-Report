@@ -1,0 +1,6 @@
+{
+  "name": "DDR Report Generator",
+  "description": "An AI-powered site inspection and thermal analysis system that generates Detailed Diagnostic Reports (DDR) with integrated images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
