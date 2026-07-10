@@ -85,7 +85,7 @@ npm run dev
 👉 Add your Render deployment link here
 
 ```
-https://your-live-demo-link.com
+https://ai-agent-ddr-report.onrender.com
 ```
 
 ---
@@ -117,7 +117,7 @@ Add screenshots of:
 
 GitHub: https://github.com/SHUBHAMSHARMACODES
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: https://www.linkedin.com/in/shubham-sharma-6b9248333
 
 ---
 
